@@ -8,4 +8,5 @@
 - [Direct X](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 - [7 Zip Direct Download](https://www.7-zip.org/a/7z2201-x64.exe) or [7 Zip website](https://www.7-zip.org/)
+- [Smart Steam Emulator (SSE)](https://cs.rin.ru/forum/download/file.php?id=37222)
 - [Wallpaper Engine](https://drive.google.com/file/d/1m2AwHg7ajIbSQdx9VIJRdHuIcLMcMwz8/view?usp=sharing)
