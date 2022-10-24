@@ -1,9 +1,12 @@
 
 # -- Table Of Contents --
-
-- [Games List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#games)
-- [Software List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#software)
-
+- Software
+    - [Games List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#games)
+    - [Software List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#software)
+    
+- Media
+    - [Media Dwonloaders](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Media.md#media-downloaders)
+    - [Streaming Services](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Media.md#streaming-services)
 
 
 # -- Help --
