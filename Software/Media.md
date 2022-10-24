@@ -8,6 +8,6 @@
 (I recomend you use an add blocker)
 
 - Anime
-  - [Zoro.to](Zoro.to)
-  - [9 Anime](9anime.to)
+  - [Zoro.to](https://Zoro.to)
+  - [9 Anime](https://9anime.to)
 
