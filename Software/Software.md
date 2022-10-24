@@ -14,7 +14,7 @@
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
-- [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
+- [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing)
 - [The Binding of Isaac Rebirth](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 
 
