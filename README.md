@@ -1,8 +1,8 @@
 
 # -- Table Of Contents --
 
-- [Games List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Games.md#games)
-- [Software List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Games.md#software)
+- [Games List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#games)
+- [Software List](https://github.com/C0SMICVISI0N/Bone-s-Unblocked-Games/blob/main/Software/Software.md#software)
 
 
 
